@@ -63,6 +63,7 @@ img{
   text-align: left;
   padding: 0;
   margin: 0;
+  font-size: 16px;
   padding-top: 22vh;
 
 }
@@ -84,5 +85,39 @@ img{
   padding:0;
   padding-top: 5vh;
 }
+.section3{
+	background:url(img/s3-bacK.png);
+	height: 90vh;
+
+	background-size: cover;
+}
+.section3 h1{
+  font-family: "Exo";
+  color: rgb(255, 109, 109);
+  padding: 0;
+  margin: 0;
+  padding-top: 22vh;
+  font-size: 16px;
+
+}
+.section3 h2{
+  font-size: 30px;
+  font-family: "Exo";
+  color: rgb(40, 40, 40);
+  padding: 0;
+  margin:0;
+  padding-top: 1.5vh;
+}
+.feature1{
+	width: 33.3%;
+}
+
+.feature2{
+	width: 33.3%;
+}
+.feature3{
+	width: 33.3%;
+}
+
 
 
