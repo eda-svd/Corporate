@@ -1,0 +1,88 @@
+body{
+	margin: 0px;
+	text-align:center;
+}
+header{
+	background: url(img/footer-back.png) no-repeat;
+	min-height: 100vh;
+	background-size: cover;
+}
+.container-header{
+	width: 750px;
+	margin: 0 auto;
+}
+p{
+  font-size: 60px;
+  font-family: "Exo";
+  font-weight: 100;
+  color: rgb(40, 40, 40);
+  line-height: 1.25;
+  text-align: center;
+  margin:0;
+  padding-top: 22vh;
+}
+img{
+	
+}
+.try{
+	padding-top: 5vh;
+	display: block;
+}
+.button{
+	padding-top: 7.5vh;
+	display: block;
+}
+.small{
+	font-size: 14px;
+  font-family: "Exo";
+  font-weight: regular;
+  text-align: center;
+  margin:0;
+  padding-top: 3vh;
+  color: rgba(40, 40, 40, 0.6);
+}
+.section2{
+	
+	height: 90vh;
+}
+.section2 img{
+	height: 90vh;
+	float: right;
+}
+.container{
+	width: 1140px;
+	margin:0 auto;
+}
+.description{
+	width: 570px;
+	float: left;
+}
+.description h1{
+  font-family: "Exo";
+  color: rgb(255, 109, 109);
+  text-align: left;
+  padding: 0;
+  margin: 0;
+  padding-top: 22vh;
+
+}
+.description h2{
+  font-size: 40px;
+  font-family: "Exo";
+  color: rgb(40, 40, 40);
+  text-align: left;
+  padding: 0;
+  margin:0;
+  padding-top: 1.5vh;
+}
+.description p{
+  font-size: 16px;
+  font-family: "Exo";
+  color: rgba(40, 40, 40, 0.659);
+  text-align: left;
+
+  padding:0;
+  padding-top: 5vh;
+}
+
+
