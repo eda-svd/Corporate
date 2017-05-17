@@ -48,6 +48,7 @@ img{
 .section2 img{
 	height: 90vh;
 	float: right;
+	width: 40%
 }
 .container{
 	width: 1140px;
@@ -109,15 +110,254 @@ img{
   padding-top: 1.5vh;
 }
 .feature1{
-	width: 33.3%;
+	width: 30%;
+	min-height: 250px;
+	float: left;
+	padding-right: 40px;
 }
 
 .feature2{
-	width: 33.3%;
+	width: 30%;
+	min-height: 250px;
+	float: left;
+	padding-right: 40px;
 }
 .feature3{
-	width: 33.3%;
+	width: 30%;
+	min-height: 250px;
+	float: left;
+}
+.section3 img{
+margin-top: 50px;
+}
+h3{
+  font-size: 22px;
+  font-family: "Exo";
+  color: rgb(40, 40, 40);
+  text-align: center;
+  padding-top:4vh;
+  margin: 0;
+font-weight: 600;
 }
 
+.section3 p{
+  font-size: 16px;
+  font-family: "Exo";
+  color: rgba(40, 40, 40, 0.659);
+  text-align: center;
+  padding: 0;
+  padding-top:2vh;
+  font-weight: 400;
 
+}
 
+.section4{
+	background:url(img/back-s4.png) no-repeat;
+	height: 70vh;
+	background-position: 0 -200px;
+}
+
+.left-s4{
+	width: 50%;
+	float:left;
+
+}
+.right-s4{
+	width: 40%;
+	float: right;
+
+}
+.left-s4 img{
+	width: 100%;
+	padding-top: 100px;
+}
+.section4 h1{
+  font-family: "Exo";
+  color: rgb(255, 109, 109);
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 400;
+  padding-top: 100px;
+  text-align: left;
+
+}
+.section4 h2{
+  font-size: 30px;
+  font-family: "Exo";
+  color: rgb(40, 40, 40);
+  padding: 0;
+  margin:0;
+  font-weight: 400;
+  padding-top: 4vh;
+  text-align: left;
+}
+.section4 p{
+  font-size: 16px;
+  font-family: "Exo";
+  font-weight: 400;
+  color: rgba(40, 40, 40, 0.659);
+  text-align: left;
+  padding: 0;
+  padding-top:4vh;
+  font-weight: 400;
+
+}
+.section5{
+	background:url(img/back-s5.png);
+	height: 90vh;
+
+	background-size: cover;
+}
+.client1{
+	width: 30%;
+	min-height: 250px;
+	float: left;
+	padding-right: 40px;
+}
+
+.client2{
+	width: 30%;
+	min-height: 250px;
+	float: left;
+	padding-right: 40px;
+}
+.client3{
+	width: 30%;
+	min-height: 250px;
+	float: left;
+}
+.section5 img{
+	margin-top: 15vh;
+}
+.section5 h1{
+  font-size: 22px;
+  font-family: "Exo";
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  padding-top: 4vh;
+}
+.section5 h2{
+  font-size: 16px;
+  font-family: "Exo";
+  color: rgb(255, 109, 109);
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  padding-top: 2vh;
+}
+.section5 p {
+  font-size: 16px;
+  font-family: "Exo";
+  color: rgba(255, 255, 255, 0.659);
+  font-style: italic;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  padding-top: 4vh;
+}
+a{
+	text-decoration: none;
+}
+.logos img{
+	padding-right: 8vw;
+	margin-top: 15vh;
+}
+.last-logos{
+	padding-right: 0px !important;
+}
+.section6{
+	background:url(img/back-s6.png);
+	height: 90vh;
+
+	background-size: cover;
+	background-position: 0 -60px;
+}
+.container-s6{
+	width: 650px;
+	margin:0 auto;
+}
+.section6 h1{
+  font-family: "Exo";
+  color: rgb(255, 109, 109);
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 400;
+  padding-top: 100px;
+  text-align: center;
+
+}
+.section6 h2{
+  font-size: 30px;
+  font-family: "Exo";
+  color: rgb(40, 40, 40);
+  padding: 0;
+  margin:0;
+  font-weight: 400;
+  padding-top: 2vh;
+  text-align: center;
+}
+.section6 p{
+  font-size: 16px;
+  font-family: "Exo";
+  font-weight: 400;
+  color: rgba(40, 40, 40, 0.659);
+  text-align: center;
+  padding: 0;
+  padding-top:4vh;
+  font-weight: 400;
+
+}
+.section7{
+	background: #323969;
+	height: 60vh;
+}
+.section7 h1{
+  font-family: "Exo";
+  color: rgb(255, 109, 109);
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 400;
+  padding-top: 80px;
+  text-align: center;
+
+}
+.section7 h2{
+  font-size: 30px;
+  font-family: "Exo";
+  color: white;
+  padding: 0;
+  margin:0;
+  font-weight: 400;
+  padding-top: 2vh;
+  text-align: center;
+}
+.trynow{
+	margin-top: 10vh;
+}
+.trynow input{
+	background: #464c77;
+	border:1px solid #999cb4;
+	padding: 7px 40px 7px 7px;
+	font-size: 16px;
+  font-family: "Exo";
+  border-radius: 3px;
+  color: #a9a9a9;
+  text-transform: uppercase;
+  line-height: 0.85;
+  text-align: left;
+  text-decoration: none;
+  line-height: 10px;
+  margin-right: 2vw;
+}
+.trynow a{
+	display: inline-block;
+	height: 33px;
+}
+.trynow img{
+	height: 33px;
+}
